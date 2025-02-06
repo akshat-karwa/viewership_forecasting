@@ -29,17 +29,17 @@ Time series analysis and forecasting project for NetView's "Leaky Finders" final
  - Holiday impacts
  
 ## Project Structure
-├── NetView_Viewership_Data.xlsx
-├── viewership_analysis.ipynb
-├── viewership_analysis.html
-├── viewership_analysis_init.html
-├── viewership_analysis.html
-├── README.md
-├── plots
-├── SARIMA_bootstrapping_preds.xlsx
-├── analysis.ipynb
-├── baseline_SARIMA_simple_train_test_split_preds.xlsx
-├── presentation.pptx
+- plots\
+- NetView_Viewership_Data.xlsx
+- viewership_analysis.ipynb
+- viewership_analysis.html
+- viewership_analysis_init.html
+- viewership_analysis.html
+- README.md
+- SARIMA_bootstrapping_preds.xlsx
+- analysis.ipynb
+- baseline_SARIMA_simple_train_test_split_preds.xlsx
+- presentation.pptx
 
 ## Model Development
 Training set: First 75% of data
